@@ -1,18 +1,28 @@
 # BAN6420-Module-6-Assignment
 # GUIDE ON HOW THIS CODE WORKS IN PYTHON
+
 Import the necessary libraries: The libraries imported will handle the following
 Fashion MNIST dataset contains 70,000 grayscale images of clothing and fashion items. Each image has a size of 28 × 28 pixels and belongs to one of 10 categories.
 The CNN learns visual patterns from the training images and uses those patterns to predict the class of previously unseen test images.
 
 The main purpose of this assignment is to:
+
 •	Load the Fashion MNIST dataset using Keras.
+
 •	Normalize the image pixel values.
+
 •	Reshape the images to make them suitable for a CNN.
+
 •	Build a six-layer CNN using Keras.
+
 •	Compile the model using the Adam optimizer.
+
 •	Train the model for five epochs.
+
 •	Evaluate the model using test data.
+
 •	Make predictions for at least two test images.
+
 •	Compare the predicted classes with their actual classes.
 
 
