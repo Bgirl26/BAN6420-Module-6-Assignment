@@ -320,9 +320,7 @@ How to Run
 Conclusion
 
 The project demonstrates how Convolutional Neural Networks can be implemented in R using Keras for image classification. The 
-
 same approach can later be adapted to classify other types of images, including user profile images, provided an appropriate 
-
 labeled dataset is available.
 
 
