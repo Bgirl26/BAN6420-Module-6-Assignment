@@ -1,7 +1,8 @@
 # BAN6420-Module-6-Assignment
 # GUIDE ON HOW THIS CODE WORKS IN PYTHON
 
-Import the necessary libraries: The libraries imported will handle the following
+Import the necessary libraries: 
+The libraries imported will handle the following
 
 Fashion MNIST dataset contains 70,000 grayscale images of clothing and fashion items. Each image has a size of 28 × 28 
 pixels and belongs to one of 10 categories.
